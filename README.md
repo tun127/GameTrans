@@ -109,6 +109,7 @@ gametrans/
 └── glossaries/limbus.txt     # 《边狱巴士》术语表（示例词库）
 tests/                      # 测试套件（标准库 runner，无需 pytest）
 docs/MOBILE_ANDROID_DESIGN.md  # Android 端设计方案
+docs/PUBLISH_TO_GITHUB.md      # 发布到 GitHub 的完整教程（首次发布/日常推送/认证/排错）
 ```
 
 ## 手机端（Android）
