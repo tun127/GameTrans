@@ -1,0 +1,145 @@
+# ================================================================
+# Limbus Company（边狱巴士）英文 → 简体中文  术语表
+# ================================================================
+# 格式：每行「原文|译文」（也支持「原文=译文」），# 开头为注释行。
+# 用法：GameTrans → 设置 → 词库与杂项 → 人工词库文件 → 选择本文件
+#       保存后自动热重载，无需重启程序。
+#
+# 【重要】本工具会做「翻译前置替换」：把下面的英文先换成中文再送翻译，
+#         因此**人名/地名的修正效果最好**（模型不会再乱音译）。
+#         系统名词少数可能被模型改写（如 Enkephalin 被写成"脑力"），
+#         可在此文件里补一行针对性纠正。
+#
+# 译名参考社区通用译法（中文维基 / 汉化组），如与你的习惯不同请直接改本文件。
+# 想支持韩文版：把左侧换成韩文原文（韩文/英文条目可混排）。
+# ================================================================
+
+# ── 罪人（Sinners）与管理人 ────────────────────────────────────
+Yi Sang|李箱
+YI SANG|李箱
+Faust|浮士德
+FAUST|浮士德
+Don Quixote|堂吉诃德
+DON QUIXOTE|堂吉诃德
+Ryōshū|良秀
+RYOSHU|良秀
+Ryoshu|良秀
+RYŌSHŪ|良秀
+Meursault|默尔索
+MEURSAULT|默尔索
+Hong Lu|鸿路
+HONG LU|鸿路
+Heathcliff|希斯克利夫
+HEATHCLIFF|希斯克利夫
+Ishmael|以实玛利
+ISHMAEL|以实玛利
+Rodion|罗佳
+RODION|罗佳
+Dante|但丁
+DANTE|但丁
+Sinclair|辛克莱
+SINCLAIR|辛克莱
+Outis|乌蒂斯
+OUTIS|乌蒂斯
+Gregor|格里高尔
+GREGOR|格里高尔
+
+# ── 世界观 / 组织 ─────────────────────────────────────────────
+Limbus Company|边狱公司
+LIMBUS COMPANY|边狱公司
+The City|都市
+The City's|都市的
+City|都市
+Wing|翼
+Nest|巢
+Backstreets|后巷
+Association|协会
+Fixer|收尾人
+Sinner|罪人
+Sinners|罪人
+Manager|管理人
+Golden Bough|金枝
+Corporation|公司
+The Head|首脑
+The Index|食指
+The Middle|中指
+The Thumb|拇指
+The Ring|指环
+N Corp.|N公司
+W Corp.|W公司
+R Corp.|R公司
+K Corp.|K公司
+J Corp.|J公司
+T Corp.|T公司
+Liu Association|刘协会
+Zwei Association|二协会
+Tres Association|三协会
+Shi Association|死协会
+Dieci Association|十二协会
+Öufi Association|欧菲协会
+Cinq Association|五协会
+Blade Lineage|剑契
+Kurokumo Clan|黑云会
+Tingtang Gang|天罡帮
+Rosespanner Workshop|玫瑰扳手工坊
+Molar Office|臼齿事务所
+Heishou Pack|黑兽派
+Distortion Detective|扭曲侦探
+
+# ── 系统 / 玩法 ───────────────────────────────────────────────
+Identity|人格
+Identities|人格
+E.G.O|E.G.O
+E.G.O Gift|E.G.O 饰品
+E.G.O Gifts|E.G.O 饰品
+E.G.O Resource|E.G.O 资源
+Enkephalin|脑啡肽
+Mirror Dungeon|镜像迷宫
+Luxcavation|采掘
+Refraction Railway|折射铁道
+Refraction|折射
+Abnormality|异想体
+Distortion|扭曲化
+Sanity|理智值
+Module|模块
+Modules|模块
+Limbus Pass|通行证
+Battle Pass|通行证
+Walpurgis Night|瓦尔普吉斯之夜
+Story Dungeon|剧情关卡
+Theater|剧场
+Season|赛季
+Intervallo|间章
+Canto|篇章
+Announcer|播报员
+Dante's Notes|但丁笔记
+Nominable|提名
+Shard|碎片
+Nominal Shard|提名碎片
+
+# ── 战斗 ──────────────────────────────────────────────────────
+Clash|拼点
+Coin|硬币
+Coins|硬币
+Heads|正面
+Tails|反面
+Stagger|硬直
+Staggered|硬直
+Resonance|共鸣
+Absolute Resonance|绝对共鸣
+Sin Affinity|罪孽属性
+Thread|丝线
+Threads|丝线
+Uptying|升级
+Uptie|升级
+Level Up|升级
+Ammo|弹药
+
+# ── 七宗罪（Sin）─────────────────────────────────────────────
+Wrath|暴怒
+Lust|色欲
+Sloth|怠惰
+Gluttony|暴食
+Gloom|忧郁
+Pride|傲慢
+Envy|嫉妒

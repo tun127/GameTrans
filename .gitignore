@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+# 虚拟环境（含各种命名：.venv / .venv_anaconda / venv / env）
+.venv/
+.venv*/
+venv/
+env/
+venv_win/
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 运行时数据（默认在 D:\GameTrans 或 %APPDATA%\GameTrans，不入仓库）
+# 配置、模型、译文缓存、词库、日志都在那里，不随源码提交。
+
+# 根目录的历史临时测试脚本（正式测试在 tests/ 下）
+/_*.py
+/_*.png
+/_*.txt
+
+# 操作系统垃圾
+Thumbs.db
+desktop.ini
+.DS_Store

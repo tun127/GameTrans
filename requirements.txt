@@ -1,0 +1,13 @@
+# GameTrans 游戏实时翻译助手 - 依赖清单
+# Python 3.12/3.13 (Windows 10+)
+PySide6>=6.6
+mss>=9.0
+numpy>=1.26
+requests>=2.31
+rapidocr-onnxruntime>=1.3.24
+ctranslate2>=4.4.0
+opencv-python>=4.8
+huggingface-hub>=0.23
+# NLLB 本地分词（AutoTokenizer）与句子编码
+sentencepiece>=0.2.0
+transformers>=4.44.0
