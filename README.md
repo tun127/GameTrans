@@ -25,7 +25,7 @@
 ### 安装
 
 ```bash
-git clone <repo-url> GameTrans
+git clone https://github.com/tun127/GameTrans.git
 cd GameTrans
 python -m venv .venv
 .venv\Scripts\activate
